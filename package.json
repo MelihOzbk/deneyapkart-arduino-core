@@ -1,0 +1,6 @@
+{
+  "name": "deneyapkart",
+  "description": "Deneyap is a Development Platform includes Deneyap Kart designed and manufactured in Turkey. Deneyap Kart is a powerful development board with its strong MCU, robust design and flexible GPIOs. It allows the users in all levels (beginners to professionals) to create, design and develop projects in the fields of Electronics, Internet of Things (IoT) and Artificial Intelligence (AI).",
+  "version": "1.0.0",
+  "url": "https://github.com/deneyapkart/deneyapkart-platformio-core"
+}
